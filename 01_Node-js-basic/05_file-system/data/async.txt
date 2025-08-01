@@ -1,0 +1,2 @@
+Async file data is here
+This is appended text in async file
